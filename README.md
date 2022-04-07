@@ -20,7 +20,7 @@ Este proyecto consiste en *Web Frontend Application* y una *Web Backend Applicat
 Primero, clonar el repositorio:
 
 ```bash
-git clone https://github.com/FaztWeb/pern-stack
+git clone https://github.com/Carlos2811/ListadoComentarios
 ```
 
 Para ejecutar el backend se puede utilizar docker:
