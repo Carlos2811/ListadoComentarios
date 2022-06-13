@@ -31,7 +31,7 @@ const TasksList = () => {
 
   return (
     <>
-      <h1>Comentarios</h1>
+      <h1>Clientes</h1>
       {tasks.map((task) => (
         <Card
           style={{

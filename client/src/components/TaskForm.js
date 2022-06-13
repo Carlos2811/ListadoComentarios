@@ -85,7 +85,7 @@ const TaskForm = () => {
           }}
         >
           <Typography variant="h5" textAlign="center" color="black">
-            {editing ? "Actualizar Comentario" : "Crear Comentario"}
+            {editing ? "Actualizar Cliente" : "Crear Cliente"}
           </Typography>
           <CardContent>
             <form onSubmit={handleSubmit}>

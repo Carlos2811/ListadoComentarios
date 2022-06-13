@@ -18,7 +18,7 @@ export default function ButtonAppBar() {
           <Toolbar>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
               <Link to="/" style={{ textDecoration: "none", color: '#eee'}}>
-                Listado de Comentarios
+                Listado de Clientes
               </Link>
             </Typography>
             <Button
@@ -26,7 +26,7 @@ export default function ButtonAppBar() {
               color="primary"
               onClick={() => navigate("/tasks/new")}
             >
-              Nuevo Comentario
+              Nuevo Cliente
             </Button>
           </Toolbar>
         </Container>
